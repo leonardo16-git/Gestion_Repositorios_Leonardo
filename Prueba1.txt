@@ -1,1 +1,1 @@
-Hola este es el texto modificado desde local
+Texto para solucionar el conflicto
